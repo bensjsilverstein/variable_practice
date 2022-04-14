@@ -6,3 +6,5 @@ pets = 2
 siblings = 1
 time_studying = 20.5
 desk_change = 3.50
+laundry_done = true
+trash_removed = true
